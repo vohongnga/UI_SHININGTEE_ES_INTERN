@@ -1,0 +1,53 @@
+/* left bar */
+ .row .leftbar{
+    padding-left: 20px;
+    
+}
+/*  admin blog category */
+ .category .marketing{
+    width: 80px;
+    height: 30px;
+    background-color: #FCE449;
+}
+.table .category .e-commerce{
+    width: 80px;
+    height: 30px;
+    background-color: #FFD600;
+}
+.row .category .developpment{
+    width: 80px;
+    height: 30px;
+    background-color: #0b0c0c;
+}
+.row .category .web-design{
+    width: 80px;
+    height: 30px;
+    background-color: #C6EB77;
+}
+.row .category .data{
+    width: 80px;
+    height: 30px;
+    background-color: #99CE02;
+}
+.row .category .communication{
+    width: 80px;
+    height: 30px;
+    background-color: #A5EED4;
+}
+/* admin blog form edit */
+.row label{
+    display: block;
+}
+/* leftbar */
+.row .leftbar ul li .active{
+    background-color: aqua;
+}
+.center{
+    margin:auto;
+    display:inline-block;
+    width: fit-content;
+    padding-left: 100px;
+}
+.w80{
+    width: 80px;
+}
