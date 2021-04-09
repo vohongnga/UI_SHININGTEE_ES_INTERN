@@ -367,7 +367,7 @@ font-style: normal;
 font-weight: 500;
   padding-top:20px;
   font-weight: 500;
-  font-size: 1.25vw;
+  font-size: 0.8em;
   color: rgba(35, 31, 32, 0.35);
   
 }
@@ -386,18 +386,18 @@ color: #06104A;
 font-style: normal;
 font-weight: 500;
   color: #231F20;
-  font-size: 1.5vw;
+  font-size: 1em;
 }
 .price{
   font-family: Montserrat;
 font-style: normal;
 font-weight: normal;
   color: #231F20;
-  font-size: 1.75vw;
+  font-size: 1.3em;
   
 }
 .container h2{
-  font-size: 1.75vw;
+  font-size: 1.75em;
   color: #06104A;
   font-weight: bold;
 }
@@ -406,31 +406,31 @@ font-weight: normal;
 }
 .more{
   color: #06104A;
-  font-size: 1.5vw;
+  font-size: 1em;
   text-align: right;
 }
 .bold-22{
   font-family: Montserrat;
 font-style: normal;
 font-weight: bold;
-font-size: 2vw;
+font-size: 1.75em;
 color: #263238;
 }
 .happy{
   color: #231F20;
   font-weight: bold;
-font-size: 1.75vw;
+font-size: 1.4em;
 }
 .happy-below{
   color: #858997;
-  font-size: 1vw;
+  font-size: 0.75em;
 }
 /* navbar */
 .navbar-brand {
   font-family: Montserrat;
   font-style: normal;
   font-weight: bold;
-  font-size: 2vw;
+  font-size: 1.2em;
   color: #06104A;
   display: flex;
   align-items: center;
@@ -439,12 +439,12 @@ font-size: 1.75vw;
   font-family: Montserrat;
 font-style: normal;
 font-weight: 500;
-font-size: 1.75vw;
+font-size: 1.75em;
 
 }
 .row .text p{
   font-family: Montserrat;
-  color: #FFFFFF;
+  color: #1f1d1d;
 }
 .mb8{
   margin-bottom: 8px;
@@ -453,9 +453,7 @@ font-size: 1.75vw;
   margin-bottom: 10px;
 }
  .logo{
-  display:flex;
-  align-items:flex-start;
-  justify-content: center;
+  margin-top: 12px;
 }
 
 .ml5{
@@ -465,7 +463,7 @@ font-size: 1.75vw;
   font-family: Montserrat;
 font-style: normal;
 font-weight: bold;
-font-size: 1.25vw;
+font-size: 1.25em;
 color: #06104A;
   text-align: left;
   margin-bottom: 10px;
@@ -474,7 +472,7 @@ color: #06104A;
   font-family: Montserrat;
 font-style: normal;
 font-weight: normal;
-font-size: 1.2vw;
+font-size: 1em;
 
 
   margin-bottom: 15px;
@@ -496,7 +494,7 @@ font-size: 1.2vw;
   font-family: Montserrat;
 font-style: normal;
 font-weight: 500;
-font-size: 1.5vw;
+font-size: 0.5em;
 color: #141821;
 }
 .btn-top {
